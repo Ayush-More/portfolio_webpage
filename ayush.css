@@ -1,0 +1,160 @@
+body{
+    background-image: url("images/background.jpg");  
+}
+.home-row{
+    height: 650px;
+}
+.img{
+    height:478px;
+    width: 477px;
+    margin-top: 30px;
+    margin-right: 126px;
+}
+h1{
+    color: aquamarine;
+}
+.heading{
+    height:334px;
+    text-align: center;
+    color:aliceblue;
+    padding-top: 150px;
+}
+.col{
+    text-align: center;
+}
+.res-btn{
+    margin-left:150px;
+}
+.git-btn{
+    margin-right: 190px;
+}
+.navbar-brand{
+    margin-left: 80px;
+    color:aliceblue;
+    font-family: 'Acme', sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 33px;
+    height: 40px;
+    
+}
+.navbar-nav{
+    margin-right: 50px;
+}
+.nav-item{
+    font-family: 'Teko', sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+}
+
+.ayush{
+    color: #FFC107;
+}
+
+#aboutme{
+    height: 650px;
+    background-color:white;
+}
+.about-text{
+    width:60px;
+    text-align: center;
+    padding: 100px 200px 40px 200px;
+}
+.about-img{
+    height: 124px;
+    width:144px;
+    padding-top: 8px;
+}
+
+.ino-div{
+    text-align: center;
+    box-shadow: 8px 8px 8px 8px #FFC107;
+    height: 180px;
+    width:150px;
+    margin:0px 100px 30px 240px;
+}
+.lea-div{
+    text-align: center;
+    box-shadow: 8px 8px 8px 8px #FFC107;
+    height: 180px;
+    width:150px;
+    margin:0px 180px 30px 100px;
+}
+
+.col-div{
+    text-align: center;
+    box-shadow: 8px 8px 8px 8px #FFC107;
+    height: 180px;
+    width:150px;
+    margin:0px 180px 30px 100px;
+}
+
+.cur-div{
+    text-align: center;
+    box-shadow: 8px 8px 8px 8px #FFC107;
+    height: 180px;
+    width:150px;
+    margin:0px 100px 30px 240px;
+}
+
+
+
+
+
+
+
+
+
+
+#skills{
+    height: 500px;
+}
+#works{
+    height: 500px;
+    background-color:green;
+}
+#contact{
+    height: 650px;
+    width: auto;
+    background-color:#F8FDCF;
+    padding: 80px 200px;
+}
+.contact-block{
+    background-color: #FFC107;
+    height: 450px;
+}
+.contact-head{
+    text-align: center;
+    padding: 5px;
+    text-decoration: underline;
+    font-size: 45px;
+    font-weight: 500;
+    font-family: 'Acme', sans-serif;
+}
+.tit{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 40px;
+}
+.contact-btn{
+    margin-left: 426px;
+}
+.link{
+    height: 200px;
+}
+.link-head{
+    text-align:center;
+    color: gray;
+    font-family: 'Pangolin', cursive;
+    font-weight: 400;
+    font-size: 48px;
+    margin-top: 40px;
+}
+.icon-img{
+    height: 30px;
+    width:30px;
+}
+.link-icon{
+    padding: 10px 550px 30px 550px ;
+}
